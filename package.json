@@ -1,0 +1,17 @@
+{
+  "name": "jokesapiana",
+  "version": "1.0.1",
+  "description": "api for jokes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "jokes"
+  ],
+  "author": "Ana Tomboulian <ana.tomboulian@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.0.3"
+  }
+}
